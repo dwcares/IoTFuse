@@ -3,13 +3,13 @@
 
 Demos and presentation from IoTFuse 2016
 
-##Slides
+Slides
 ==================
 
 The slides from our workshop are published here!
 https://github.com/dwcares/IoTFuse/raw/master/Slides.pdf
 
-##1 - UrbanFarm
+1 - UrbanFarm
 ==================
 
 You can see the complete source code and slides for the Urban farm project here!
@@ -21,7 +21,7 @@ The demo is usually running, and you can usually find it here:
 
 http://katespetes.farm/
 
-##2 - SaunaTemp
+2 - SaunaTemp
 ==================
 
 You can see the complete source code for the Sauna Temp project here!
@@ -34,7 +34,7 @@ The demo is usually running, and you can usually find it here:
 http://saunatemp.azurewebsites.net
 
 
-##3 - GarageOS
+3 - GarageOS
 ==================
 
 You can see the complete source code for the GarageOS project here!
